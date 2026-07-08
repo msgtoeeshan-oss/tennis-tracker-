@@ -1,10 +1,9 @@
 # 🎾 TennisVision — In-Browser Ball & Player Tracker
 
-Live demo: **https://YOUR-USERNAME.github.io/tennis-tracker/** ← open on your phone, works instantly
+Live demo: **https://msgtoeeshan-oss.github.io/tennis-tracker-/** ← open on your phone, works instantly
 
 TennisVision tracks a tennis ball and players in real time from a video clip or your phone camera — entirely in the browser. No servers, no OpenCV, no ML libraries. Every algorithm is implemented from scratch in ~350 lines of vanilla JavaScript.
 
-![TennisVision screenshot](screenshot.png)
 
 ## What it does
 
