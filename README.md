@@ -45,4 +45,4 @@ Vanilla JavaScript · Canvas 2D · MediaDevices API · zero dependencies · sing
 
 ---
 
-*Built by Eeshan — freshman exploring computer vision, AI, and systems that run anywhere.*
+*Built by Eeshan*
